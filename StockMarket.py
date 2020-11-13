@@ -1,3 +1,5 @@
+# Extracted stock data from Yahoo Finance with Python and utilized visualizations to analyze various tech stocks 
+
 # Data analysis and visualization imports
 from __future__ import division
 import pandas as pd
